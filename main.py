@@ -3,7 +3,7 @@ import random
 acertos = 0
 erros = 0
 tiros = 0
-
+#Funções
 def mostrar_menu():
     print("\n--- MENU ---")
     print("1 - Mostrar Tabuleiro")
